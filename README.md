@@ -1,6 +1,5 @@
 # BreastCancer-Prediction
 
-### Summary of the Report on Breast Cancer Prediction
 
 #### Overview
 A machine learning classification task to predict whether a breast mass is malignant or benign based on features derived from digitized images of fine needle aspirates (FNA) of breast masses. The goal is to aid in the early detection and diagnosis of breast cancer.
